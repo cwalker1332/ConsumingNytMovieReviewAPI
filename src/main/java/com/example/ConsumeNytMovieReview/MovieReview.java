@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 // model class
 
+// ignore any additional fields found when api is called that are not declared below
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class MovieReview {
     // declare MovieReview variables

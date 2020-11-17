@@ -40,10 +40,4 @@ public class Link {
                 ", suggested_link_text=" + suggested_link_text+ '\'' +
                 '}';
     }
-
-   /*
-   private String type;
-    private String url;
-    private String suggested_link_text;
-    */
 }
